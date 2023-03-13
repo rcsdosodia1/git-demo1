@@ -1,2 +1,2 @@
 added new text
-add new line for merge
+add to merge
